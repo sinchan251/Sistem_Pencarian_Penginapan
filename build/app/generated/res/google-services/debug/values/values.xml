@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">291869335232-6roo30sf7rqt8fmrqt5e2id8hdd9prvs.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">291869335232</string>
+    <string name="google_api_key" translatable="false">AIzaSyC_jJixdO1t86hFby7HE8C2zMiiZGD-UzQ</string>
+    <string name="google_app_id" translatable="false">1:291869335232:android:908f7b77178ab9de6f5725</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC_jJixdO1t86hFby7HE8C2zMiiZGD-UzQ</string>
+    <string name="google_storage_bucket" translatable="false">penginapan-test.appspot.com</string>
+    <string name="project_id" translatable="false">penginapan-test</string>
+</resources>

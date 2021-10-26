@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\flutter\\Penginapan_Takengon\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Sinchan\\.gradle\\caches\\transforms-2\\files-2.1\\f5cf0df174cb7a7fb11aa60c0a44c3b6\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\flutter\\Penginapan_Takengon\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Sinchan\\.gradle\\caches\\transforms-2\\files-2.1\\f5cf0df174cb7a7fb11aa60c0a44c3b6\\core-1.1.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\flutter\\Penginapan_Takengon\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Sinchan\\.gradle\\caches\\transforms-2\\files-2.1\\f5cf0df174cb7a7fb11aa60c0a44c3b6\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\flutter\\Penginapan_Takengon\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Sinchan\\.gradle\\caches\\transforms-2\\files-2.1\\f5cf0df174cb7a7fb11aa60c0a44c3b6\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\flutter\\Penginapan_Takengon\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Sinchan\\.gradle\\caches\\transforms-2\\files-2.1\\f5cf0df174cb7a7fb11aa60c0a44c3b6\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    }
+]

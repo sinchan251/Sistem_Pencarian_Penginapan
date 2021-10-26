@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291869335232",
+    "project_id": "penginapan-test",
+    "storage_bucket": "penginapan-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291869335232:android:908f7b77178ab9de6f5725",
+        "android_client_info": {
+          "package_name": "com.example.Penginapan_Takengon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291869335232-6roo30sf7rqt8fmrqt5e2id8hdd9prvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_jJixdO1t86hFby7HE8C2zMiiZGD-UzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291869335232-6roo30sf7rqt8fmrqt5e2id8hdd9prvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
